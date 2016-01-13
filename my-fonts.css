@@ -1,0 +1,36 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 2731282, 2014-01-23T05:04:51-0500
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed /assets/fonts/equip_webfont(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: Equip Medium by Hoftype
+ * URL: http://www.myfonts.com/fonts/hoftype/equip/medium/
+ * Licensed pageviews: 10,000
+ *
+ * Webfont: Equip Regular by Hoftype
+ * URL: http://www.myfonts.com/fonts/hoftype/equip/regular/
+ * Licensed pageviews: 10,000
+ *
+ * Webfont: Equip Light by Hoftype
+ * URL: http://www.myfonts.com/fonts/hoftype/equip/light/
+ * Licensed pageviews: Unlimited
+ *
+ *
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2731282
+ * /assets/fonts/equip_webfont copyright: Copyright (c) 2013 by Dieter Hofrichter. All rights reserved.
+ *
+ * © 2014 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@font-face {font-family: 'Equip-Medium';src: url('/assets/fonts/equip_webfont/29AD12_0_0.eot');src: url('/assets/fonts/equip_webfont/29AD12_0_0.eot?#iefix') format('embedded-opentype'),url('/assets/fonts/equip_webfont/29AD12_0_0.woff') format('woff'),url('/assets/fonts/equip_webfont/29AD12_0_0.ttf') format('truetype');}
+
+@font-face {font-family: 'Equip-Regular';src: url('/assets/fonts/equip_webfont/29AD12_1_0.eot');src: url('/assets/fonts/equip_webfont/29AD12_1_0.eot?#iefix') format('embedded-opentype'),url('/assets/fonts/equip_webfont/29AD12_1_0.woff') format('woff'),url('/assets/fonts/equip_webfont/29AD12_1_0.ttf') format('truetype');}
+
+@font-face {font-family: 'Equip-Light';src: url('/assets/fonts/equip_webfont/29AD12_2_0.eot');src: url('/assets/fonts/equip_webfont/29AD12_2_0.eot?#iefix') format('embedded-opentype'),url('/assets/fonts/equip_webfont/29AD12_2_0.woff') format('woff'),url('/assets/fonts/equip_webfont/29AD12_2_0.ttf') format('truetype');}
